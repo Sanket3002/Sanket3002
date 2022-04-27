@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sanket3002
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Computer science and Business system
-- ⭐ I’m looking to collaborate on Different Interesting ML related Projeccts
+- 🎓 I’m pursuing my B.Tech Degree in Computer Science
+- 💫 I’m looking to collaborate on Different Interesting ML related Projeccts
 - 📫 Linkdin Profile : https://www.linkedin.com/in/sanket-jojan
 
 <!---
