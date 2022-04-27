@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Computer science and Business system
 - ⭐ I’m looking to collaborate on Different Interesting ML related Projeccts
-- 📫 Linkdin Profile : linkedin.com/in/sanket-jojan
+- 📫 Linkdin Profile : https://www.linkedin.com/in/sanket-jojan
 
 <!---
 Sanket3002/Sanket3002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
